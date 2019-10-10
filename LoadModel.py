@@ -24,7 +24,7 @@ def load_data(data_directory):
     return images, labels
 
 
-ROOT_PATH = "/Users/shubham/Desktop/"
+ROOT_PATH = "/Users/Realm/Desktop/"
 train_data_directory = os.path.join(ROOT_PATH, "TrafficSigns/Training")
 test_data_directory = os.path.join(ROOT_PATH, "TrafficSigns/Testing")
 # PracticeData = os.path.join(ROOT_PATH, "TrafficSigns/sort")
